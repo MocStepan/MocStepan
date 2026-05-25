@@ -11,10 +11,6 @@ Background in full-stack development helps me bridge the gap between infrastruct
   <a href="https://www.linkedin.com/in/%C5%A1t%C4%9Bp%C3%A1n-moc-40115920b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-
-  <a href="https://github.com/MocStepan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
-  </a>
 </div>
 
 ###
@@ -86,11 +82,3 @@ Background in full-stack development helps me bridge the gap between infrastruct
 </p>
 
 ###
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MocStepan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MocStepan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" />
-</div>
